@@ -1,0 +1,27 @@
+# Front Door AI Index — graph-ai — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: graph-ai
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: graphsafety.ai
+  final_host: graphsafety.ai
+  ownership: own
+  owner: graph-ai
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 15
+  host_score: 15
+  density: 19.06
+  words: 787
+  tiers:
+    agentic: 0
+    core: 14
+    model: 1
+  ambiguous: 3
+  top_terms:
+    AI: 14
+    intelligence: 3
+    Vertex AI: 1
